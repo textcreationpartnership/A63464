@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true character of an ordinance of Parliament in generall written by Tho. Tel-troth, clerk to the long-abused Commons in England, Scotland and Ireland.</title>
+            <author>Tel-Troth, Tom.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63464</idno>
+            <idno type="STC">Wing T2599</idno>
+            <idno type="STC">ESTC R12623</idno>
+            <idno type="EEBO-CITATION">11826705</idno>
+            <idno type="OCLC">ocm 11826705</idno>
+            <idno type="VID">49688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49688)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 554:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true character of an ordinance of Parliament in generall written by Tho. Tel-troth, clerk to the long-abused Commons in England, Scotland and Ireland.</title>
+                  <author>Tel-Troth, Tom.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.]</publisher>
+                  <pubPlace>Amsterdam :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49688:1"/>
+            <pb facs="tcp:49688:1"/>
+            <head>THE TRUE CHARACTER OF AN ORDINANCE OF PARLIAMENT in generall.</head>
+            <byline>Written by <hi>Tho. Tel-troth,</hi> Clerk to the long-abuſed Commons in <hi>England, Scotland</hi> and <hi>Ireland.</hi>
+            </byline>
+            <head type="sub">Printed at <hi>Amſterdam</hi> 1647.</head>
+            <p>
+               <seg rend="decorInit">A</seg>N Ordirance of Parliament (without the Royall aſſent) is an illegitimate Monſter, or State-baſtard, begotten between <hi>Pride</hi> and <hi>Diſobedience,</hi> and forc'd upon the Com<g ref="char:EOLhyphen"/>mon-wealth to keep: It hath ſo many fa<g ref="char:EOLhyphen"/>thers, that one cannot tell who had the greateſt ſhare in begetting it, unleſs the Devil the father of <hi>Lies,</hi> who is the grand <hi>cauſe</hi> of its Production; It enters into the world in a confuſed and monſterous ſhape, not much un<g ref="char:EOLhyphen"/>like to a <hi>Bear-whelp,</hi> which ſome Knave or Promoting Varlet in a City or Company licks into a <hi>forme,</hi> and ſo
+<pb n="2" facs="tcp:49688:2" rendition="simple:additions"/>
+               <hi>draws it up,</hi> or apparells it in the Cobweb-lawne Ragges of his own <hi>ignorance, folly, madneſſe</hi> or <hi>Knavery,</hi> till it be dreſs'd up, and made ready to be preſented to <hi>the gods of this world,</hi> to be <hi>dipped</hi> or <hi>ſprinkled;</hi> The God-fathers conſiſt moſt of <hi>Commons,</hi> and many times of <hi>LORDS and COMMONS;</hi> the Goſips are Mrs. <hi>Trouble-ſtate,</hi> and Mrs. <hi>Wood-have-all;</hi> The <hi>Holy Synod,</hi> (that are alwayes too officious to undoe the poor <hi>Common-wealth,</hi> ſprinkles it, and prays over <hi>it,</hi> which beſides <hi>THE ORDINANCE (God ſave us from a gun)</hi> which this young <hi>babe of grace,</hi> (in ſtead of Croſſing,) is mark'd withall in the fore-head when it receives the adoption, with a <hi>new Ceremony</hi> or Subſcription at the tayl, made by the <hi>Clerk, H El.</hi> That hereafter it may not be aſhamed to fight under their banners. All which <hi>Ceremonies</hi> being performed, it is committed to the care of that learned <hi>Typographiſt E. Husbands</hi> to be ſchooled, or taught to ſpeak plain <hi>Engliſh</hi> at his ſchool on <hi>Addling Hill:</hi> He many times hath a leaſe of his life, and continues ſometimes a yeer, ſometimes more, and ſometimes leſſe; he hath a numerous iſſue, and all <hi>named</hi> alike; <hi>Ordinance</hi> is a common Name for them all; onely their ſir-names are all as different as their natures, for there is ſuch diſparity be<g ref="char:EOLhyphen"/>tween them, that they ſeldom agree in one and the ſame thing; therefore it is not much amiſſe to ranck them in or<g ref="char:EOLhyphen"/>der.</p>
+            <p>
+               <hi>Ordinance for raiſing men</hi> under the E. of <hi>Eſſex,</hi> to murder his Majeſties Loyall Subjects, as if then our happy peaceable e<g ref="char:EOLhyphen"/>ſtate under the government of ſo pious, good and mercifull a Prince, (that all Chriſtendom cannot paralell) had procur'd ſuch an univerſall <hi>Plague,</hi> that nothing could cure the ſame but the ſword, to let out the very heart-blood of his <hi>nurſe</hi> the <hi>Common-wealth,</hi> to the utter ruine of millions, both in lives and Eſtates.</p>
+            <p>
+               <hi>Ordinance</hi> for the Earl of <hi>Straff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rds</hi> blood, written in ſo <hi>red</hi> a Character, and cry'd ſo low'd to heaven for <hi>Juſtice,</hi> that it immediately brought the Plague of the <hi>bloody-iſſue</hi> over all <hi>Ireland,</hi> nay and England too; <hi>V<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x ſanguinis fratrum vestrorum clamat de terra.</hi> The voice of the blood of their murdered bre<g ref="char:EOLhyphen"/>thren
+<pb n="3" facs="tcp:49688:2" rendition="simple:additions"/>cryeth out of the earth againſt them: And this <hi>voice</hi> it is that hath had ſo powerfull and forceable a working a<g ref="char:EOLhyphen"/>mongſt them.</p>
+            <p>
+               <hi>The Ordinance to</hi> butcher <hi>the Biſhop of Canterbury,</hi> ſo eagerly proſecuted by the over-blinde zeal, hate, and malice of his cruell perſecuters, that the rather wrought home their own Plagues, then that <hi>Martyrs</hi> puniſhment, when they preferred him to more Titles, and greater glory by put<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing him to death; When they condemned him, then they crowned him, when they killed him, then they gave him life, when they ſpoiled him, even then they inriched him. <hi>Plures efficinem, quo<g ref="char:EOLhyphen"/>ties metimur a vobis, ſemen eſt ſanguis Chriſtianorum.</hi> Our number increaſeth ſo often as you <hi>reape</hi> us, and the ſeed of the Church is the <hi>blood</hi> of <hi>Chriſtians.</hi> The more the Children of <hi>Iſrael</hi> were oppreſſed the more they increaſed, and ſo it is in all true <hi>Pro<g ref="char:EOLhyphen"/>teſtants,</hi> as <hi>Saint Auguſtine,</hi> ſaith, 22 <hi>de civitat. cap.</hi> 7. <hi>Reſurrectio immortalitatis pullulabat faecundius, cum in Martirum ſanguine ſe<g ref="char:EOLhyphen"/>reretur,</hi> The reſurrection of Immortallity ſprong more fertil<g ref="char:EOLhyphen"/>ly, when it was ſown in the <hi>blood</hi> of <hi>Martyrs;</hi> The ſweet ſpice yeeldeth the better ſcent when it is bruiſed or pounded; when you perſecute ſuch <hi>Men,</hi> you but <hi>till</hi> &amp; <hi>manure</hi> the <hi>ground</hi> of the Church; and though you think by ſuch means to <hi>root</hi> out her <hi>corn,</hi> you but ſow ſeed, that ſoon after will ſpring with a more glorious and plentifull harveſt. I might inlarge my ſelf much upon this <hi>ſubject,</hi> and tell you of many other things that are not halfe ſo ſtrange as true, to remember you of one <hi>Timkins, Challoner,</hi> His Majeſties <hi>Meſſenger,</hi> and many others, that dy'd with no more <hi>Law,</hi> then you your ſelves had <hi>Goſpel</hi> when you condemned thens; Theſe are all notch'd upon your <hi>Parliament-tally,</hi> and muſt for certain (in the end) come to a ſtrict reckoning.</p>
+            <p>The great <hi>conſtancy</hi> of theſe mens ſufferings inciteth all Loyall Subjects to look the more ſtedfaſtly into their <hi>Cauſe,</hi> that ſo by ſeeking they may finde, underſtand, and beleeve, and become all as ready to die in the <hi>juſt Cauſe</hi> of ſo good a King, as theſe men did.</p>
+            <p>If you daily deviſe to vex and grieve his Majeſtie with <hi>Pro<g ref="char:EOLhyphen"/>poſitions,</hi>
+               <pb n="4" facs="tcp:49688:3"/>which yourſelves know before you frame them, that it ſtandeth not with his Majeſties honor, neither can he ſigne unto them without danger of a <hi>perjur'd conſcience,</hi> that muſt needs render him as odious both to God and all honeſt men, as your ſelves are, for the breach of your ſeverall Oathes of <hi>Allegiance</hi> unto him; or if you carry this <hi>Royall Ark</hi> to any one of your four <hi>Priſons,</hi> (as the report goeth) you muſt expect plague-fores, ſwellings, riſings, and blanes breaking forth too; it will not be the fear of Priſons, Racking, Hanging, Draw<g ref="char:EOLhyphen"/>ing, nay grinding to pieces that will affright thouſand of thouſands of <hi>Loyall Subjects</hi> from their obedience to His Ma<g ref="char:EOLhyphen"/>jeſtie; all the Tyranny you can invent, or inflict upon us, ſhall be but a teſtimony and proof of our <hi>Allegiance</hi> and <hi>Fidelity</hi> to our <hi>Gracious Soveraigne,</hi> that God hath placed over us; ſo long as that impregnable <hi>Fort Royall</hi> holds out, there is not the leaſt doubt of <hi>Victory,</hi> ſince it is ſo ſtrongly fortified with <hi>Grace,</hi> and arm'd with the compleat <hi>armor of Righteouſneſſe,</hi> man'd with <hi>Angels,</hi> whoſe chief Governour is the <hi>Lord of Hoſts,</hi> in whoſe hand the <hi>heart of the King is:</hi> If Sir <hi>Thomas</hi> lay ſiege to this <hi>Fort,</hi> (as God forbid) heel looſe more men before <hi>it,</hi> then ever the <hi>Conqueror</hi> did before <hi>Bazing-houſe:</hi> But I hope better of that Noble Generall; and am perſwaded, that though never ſo many rebellious Monſters ſhould riſe up a<g ref="char:EOLhyphen"/>gainſt Him, and ſhould imbrue their bloody and cruel hands in the freſh bleeding wounds of <hi>Him</hi> and his Loyall Subjects, and make never ſo loud a noyſe of victory, yet when it com<g ref="char:EOLhyphen"/>meth to the proof, God will ſhew them (by rufull experience) that all the noyſe and ſound of victory, was but the ſound of their own fall and ruine; and his Majeſtie appear the more glorious, and His <hi>Honor</hi> not one whit hurt thereby, but much bettered by their treachery.</p>
+            <p>
+               <hi>Ordinanes</hi> for <hi>Contributions, Aſſeſſments, Excizes, Sequeſtrations,</hi> and an infinite many more force <hi>free-quarter</hi> from the poor Common-wealth, and a thouſand firks to pump her dry, and drain all her money into their own Coffers, their notorious ingratitude to the City of <hi>London;</hi> that ſo long have upon all pretended occaſions whatſoever, <hi>emptied</hi> not onely their veins
+<pb n="5" facs="tcp:49688:3"/>of blood, but their coffers of money) that ſo they might in<g ref="char:EOLhyphen"/>able themſelves to undoe the Countrey; and when the Coun<g ref="char:EOLhyphen"/>trey lies languiſhing in miſery, and paſt recovery, then to <hi>un<g ref="char:EOLhyphen"/>doe</hi> the Citie, impriſon the Lord <hi>Major</hi> (His Majeſties Lieu<g ref="char:EOLhyphen"/>tenant) of the City, with the Aldermen, the chief Merchants and upholders of <hi>Trade</hi> and <hi>commerce,</hi> which muſt at the beſt prove but an utter undoing of us all in general, both <hi>City</hi> and <hi>Countrey,</hi> both deſperately ſick, even unto an univerſall <hi>judge<g ref="char:EOLhyphen"/>ment,</hi> and muſt both taſte of His Majeſties <hi>cup:</hi> Lord look up<g ref="char:EOLhyphen"/>on Him and us, for we are all in great ſlavery, even whilſt they pretend <hi>liberty,</hi> we are daily <hi>bound:</hi> the <hi>cure</hi> of our <hi>diſeaſe</hi> hath proved fatall, and worſe then the diſeaſe it ſelf; for we have bowed our necks to a <hi>heavy-yoake,</hi> and are in worſe then <hi>Egyp<g ref="char:EOLhyphen"/>tian ſlavery.</hi>
+            </p>
+            <p>New <hi>Monopolies</hi> are every day invented, and farmed out to Promoting <hi>catterpillars,</hi> even for Printing <hi>Pamphlets</hi> forſooth; Pamphlet-<hi>Symmonny</hi> for a yeer and a day, to print the learned <hi>Works</hi> of the <hi>Agitators.</hi>
+            </p>
+            <p>
+               <hi>Ordinance for ſuppreſſing unlicenſed Pamphlets,</hi> muſt <hi>truth</hi> be licenſed, and <hi>lies</hi> authorized: <hi>Goap Gilbert,</hi> five ſhillings a peny <hi>Pamphlet,</hi> muſt the Preſſe be ſhut up to all but <hi>Walker,</hi> eldeſt ſon to the <hi>father of lies:</hi> Clerk, Preacher, Ironmonger, Bookſeller, Poetaſter, and all too little to maintaine ſo goatiſh a <hi>leacher;</hi> muſt <hi>Hunſcott,</hi> that old grizl'd <hi>thief</hi> come to his old trade of breaking open houſes, as lately hee hath done, and under pretence of ſearching for unlicenſed <hi>books,</hi> take, ſteale and car<g ref="char:EOLhyphen"/>ry away what ere they can lay hands on, and be protected by <hi>Ordinance?</hi> muſt <hi>power</hi> be intruſted in the hands of ſuch notori<g ref="char:EOLhyphen"/>ouſly known villanes, the very ſcum of mankind, and excre<g ref="char:EOLhyphen"/>ment of decayed <hi>nature,</hi> that <hi>rake hell, and ſcim the devil,</hi> (as the proverb goeth) you will hardly find two the like for all man<g ref="char:EOLhyphen"/>ner of ſorded villanies, not to be equalled: theſe two hounds, with carret-beard <hi>Lewis,</hi> a whelp of the ſame litter, hunt up and down continually, <hi>ſeeking whom they may devour:</hi> It were well that all honeſt men would take notice of theſe <hi>Curres,</hi> and lend a helping hand to muzzle them, elſe poor <hi>Tell-troath</hi> will be worried even to death, and then the abuſed <hi>Common<g ref="char:EOLhyphen"/>alty</hi>
+               <pb n="6" facs="tcp:49688:4"/>may be ſtill led blind-fold by the <hi>noſe</hi> to more new taxes yet? New Aſſeſſments and <hi>penalties</hi> laid upon thoſe that refuſe the pay<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent thereof, or to ſtreine preſently for the ſame? Is <hi>this the Liberty of the Subject,</hi> purchaſed with ſo much blood and ſweat, and that hath coſt us ſo much money? Shall not poor <hi>Tel-troath</hi> think ye be impriſoned 40. dayes in the common-<hi>jayle,</hi> for his ſawcy blabbing, thus boldly too? Muſt he pay 40. ſhillings for ſpeaking <hi>truth,</hi> that now is forc'd to ſanctuary her ſelf in corners and <hi>holes;</hi> walk in the dark for fear of perſe<g ref="char:EOLhyphen"/>cuters, lame, cold, and clad in <hi>ragges?</hi> Do you think to <hi>Ordain</hi> or <hi>Order</hi> any thing ſo cloſely, that it ſhall not be one day re<g ref="char:EOLhyphen"/>vealed, and laid open as cleer as the <hi>Sun;</hi> at which great <hi>Aſ<g ref="char:EOLhyphen"/>ſizes,</hi> and Higher Court of <hi>Parliament,</hi> many of you (it is much to be feared) will be committed to the Priſon on the <hi>left-hand</hi> for a longer terme then <hi>fourty-dayes:</hi> Underſtanding men be<g ref="char:EOLhyphen"/>leeve that <hi>truth</hi> hath rubb'd many of your <hi>gual'd backs,</hi> that you kick and winch thus? <hi>Truth</hi> feares no colours, though you ſet on all your <hi>Ppurſuiavants, Beadles,</hi> and the <hi>Devil</hi> and all upon her, ſhe will at length prevail, and maugre all your ma<g ref="char:EOLhyphen"/>lice: in the mean time <hi>ſhe</hi> diſpaireth not of ſome freinds, to help and comfort her, in deſpight of <hi>Iron-face,</hi> or the lear<g ref="char:EOLhyphen"/>ned <hi>Stationer</hi> at the <hi>Exchange,</hi> that would have ſet out a whole Troop at his own charge to foment a new <hi>war;</hi> ſurely the very ſame wiſe <hi>Common-counſel-man,</hi> put this new Ordi<g ref="char:EOLhyphen"/>nance for <hi>Pamphlets</hi> into its ſwadling-clouts; for himſelf and his honeſt Brethren muſt pay but 10 s. for ſelling of them, and the poor man that carries them about the ſtreets, muſt be whipt for a Roague: Merciful Ordinance! and why not he whipt as well that ſells unlicenſed books in his ſhop, as he that ſelfs them in the ſtreet, they both offend alike; and for ought I know, the poor man may be the honeſter man of the two. But he that prints them muſt have his Preſſes defac'd; alaſſe poor harmleſſe things, you muſt be degraded too, and made: or ever uncapable of printing, though your maſters, with their wives and families harve in the ſtreets for want of bread.</p>
+            <p>
+               <hi>O <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for the Twentieth part;</hi> then why not the 18, 19; and
+<pb n="7" facs="tcp:49688:4"/>to conſequently all the reſt; for that <hi>power</hi> that commands a <hi>part</hi> of our <hi>Eſtates,</hi> will not ſpare the reſt upon occaſion; This the King told us once, but we wanted the grace then to be<g ref="char:EOLhyphen"/>leeve Him; but now all is gone, it is too late to ſhut the ſtable<g ref="char:EOLhyphen"/>doore.</p>
+            <p>
+               <hi>Ord. for Tythes;</hi> The <hi>Synod</hi> have as good ſtomacks as <hi>Bells</hi> Prieſts; the <hi>tenths</hi> of the Kingdom will not ſuffice them, and 4 s. a day to boot: O intollerable; <hi>The mercy of God, and the covetouſ<g ref="char:EOLhyphen"/>neſſe of the prieſt is without end:</hi> The <hi>tenths</hi> of right belong to the <hi>fatherleſſe, the ſtranger and widow,</hi> yet <hi>Sir John would have all,</hi> or elſe to priſon, and there ly without <hi>bayle</hi> or <hi>mainpriſe,</hi> till the <hi>utmoſt farthing be paid,</hi> though the poor wretches have not bread to help themſelves and children, 'tis all one to them, they ſhew you no other reaſon, but the <hi>Ordinance</hi> for all.</p>
+            <p>
+               <hi>Ord. for the Directory;</hi> The <hi>Service-book</hi> out of date; what new Religion next muſt we expect, <hi>Shakers?</hi> the Soldiers had the wit to caſt <hi>dice,</hi> leſt they ſhould rend the <hi>ſeam-leſſe</hi> coat of our Saviour; Get you ſome <hi>dice,</hi> and caſt too for ſhame; ſhould the <hi>ſeamleſſe-coat</hi> or Church fall to <hi>Dr. Burges,</hi> what a goodly por<g ref="char:EOLhyphen"/>tion would it be to feaſt him and his <hi>Compu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gators;</hi> or to Dr. <hi>Gouge;</hi> and hee'd take <hi>uſe</hi> for it, as he doth his money; or to D. <hi>Sybalds,</hi> 'twill help pay for nurſing his <hi>illigitimate</hi> children; Or to Mr. <hi>Sedwick,</hi> 'twill doe him the feat <hi>now, and anen too,</hi> and bring that <hi>Great Wark</hi> to a ſpeedyer end. Good God reſcue thy <hi>Vineyard</hi> from ſuch <hi>Boares,</hi> that root up her <hi>Vines,</hi> and di<g ref="char:EOLhyphen"/>vide her tender cluſters of <hi>grapes;</hi> deliver thy <hi>Suſanna</hi> from the hands of theſe <hi>wicked Elders,</hi> theſe diſeaſed pieces of <hi>A<g ref="char:EOLhyphen"/>pocrypha,</hi> that no ſooner are bound up with the <hi>Bible,</hi> but they corrupt the whole <hi>Text:</hi> Ignorance and fat feeding are their beſt <hi>founders;</hi> and their life but a borrowed blaſte of <hi>winde;</hi> for between two <hi>Religions,</hi> (as between two doors) they are al<g ref="char:EOLhyphen"/>wayes whiſtling: Where the <hi>gate</hi> ſtands open, they will al<g ref="char:EOLhyphen"/>wayes be ſeeking a <hi>ſtile;</hi> and where their <hi>learning</hi> ought to <hi>climbe,</hi> they muſt <hi>creep tharow;</hi> give them <hi>advice,</hi> you run pre<g ref="char:EOLhyphen"/>ſently into <hi>Traditions,</hi> and urge a modeſt courſe, they cry out <hi>Councells;</hi> and cannot abide to diſpute in any place, but
+<pb n="8" facs="tcp:49688:5"/>Where the meat is beſt, there they confute moſt; for their ar<g ref="char:EOLhyphen"/>guing is but the efficacy of their <hi>eating;</hi> They can better afford you ten lies then one Oath; and dare commit any ſin, ſo it be gilded over with <hi>pretences of ſanctitie;</hi> They will not ſtick to commit fornication, ſo it be done ſinceerly, and for the pro<g ref="char:EOLhyphen"/>pagation of the <hi>godly;</hi> and hate no <hi>whore</hi> ſo much as the <hi>whore</hi> of <hi>Babylon.</hi> They hold it lawfull to <hi>ſteale,</hi> ſo it be from the wicked. They are of ſo good diſcourſe, that they dare chal<g ref="char:EOLhyphen"/>lenge the <hi>Almighty,</hi> to talke with them <hi>ex tempore;</hi> Laſtly their their <hi>devotion</hi> is <hi>O ſtinacy,</hi> the onely ſolace of their hearts <hi>con<g ref="char:EOLhyphen"/>tradiction,</hi> and the main end of their ſitting, <hi>conſultations</hi> and debates, nothing elſe but <hi>hypocryſie.</hi>
+            </p>
+            <p>
+               <hi>Ordinance to grant the Boyes a Holy-day,</hi> and the thankfull boyes, in requitall, to force the Parliament to make two or three: The King ſigned to a <hi>trienial Parliament,</hi> the <hi>Synod</hi> praid it into an <hi>everlaſting-Parliament,</hi> to requite His Majeſtie: Sir <hi>Thomas</hi> and his <hi>Agitators</hi> will make it a <hi>bienniall Parliament,</hi> or put a period to the ſame; and thus all things are out of ſquare, and ſubiect to change and <hi>mutabillity,</hi> and nothing under the ſun firm and permanent, and man more unſtable, then any o<g ref="char:EOLhyphen"/>ther of the creatures, and is not what he ſeems to be, his un<g ref="char:EOLhyphen"/>derſtanding is intricate and full of windings: he is the <hi>prima materia,</hi> and his intents give him form; hee dyeth his <hi>means</hi> and his <hi>meaning</hi> into two <hi>colours,</hi> hee baits <hi>craft</hi> with <hi>humili<g ref="char:EOLhyphen"/>ty,</hi> and his countenance is the preſent <hi>diſpoſition.</hi> He winnes not by <hi>battery;</hi> but <hi>undermining,</hi> and his rack is <hi>ſoothing.</hi> He knoweth <hi>paſſion</hi> onely by ſufferance, and <hi>reſiſteth</hi> by <hi>obeying.</hi> He makes his <hi>time</hi> an Accountant to his memorie, and of the hu<g ref="char:EOLhyphen"/>mors af men, weaveth <hi>nets</hi> for his own occaſions.</p>
+         </div>
+         <div type="license">
+            <p>This <hi>Character</hi> is licenſed according to Order, by <hi>Tom Tel<g ref="char:EOLhyphen"/>troath,</hi> Cler. to the long-abuſed COMMONS.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49688:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
